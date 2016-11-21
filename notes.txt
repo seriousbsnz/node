@@ -1,0 +1,5 @@
+npm init 
+- creates npm package to keep all packages organized
+
+npm install -s
+- will save to json file
